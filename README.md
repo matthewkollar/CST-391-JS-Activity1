@@ -138,7 +138,7 @@ Returns a distinct list of artists from the database.
 ---
 
 ## 10) Screencast Recording
-**Link:** [**(http://somup.com/cTeioy7tWi)**](#)
+**Link:** [**http://somup.com/cTeioy7tWi**](#)
 
 **Description:**  
 A video demonstration of each endpoint in Postman, along with a detailed explanation of one API method (router → controller → DAO).
